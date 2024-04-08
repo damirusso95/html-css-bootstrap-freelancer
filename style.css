@@ -5,7 +5,7 @@
 
 }
 
-.conteiner-box{
+.box{
     max-width: 900px;
     margin: 0 auto;
 }
@@ -20,4 +20,11 @@
     width: 100%;
     color: black;
     background-color: white;
+}
+
+.copywrite{
+    width: 100%;
+    color: white;
+    background-color:#2C3E50;
+
 }

@@ -5,8 +5,19 @@
 
 }
 
+.conteiner-box{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 .green{
     width: 100%;
     color: white;
     background-color:#1ABC9C;
+}
+
+.white{
+    width: 100%;
+    color: black;
+    background-color: white;
 }

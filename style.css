@@ -1,13 +1,13 @@
+.box{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 .dark{
     width: 100%;
     color: white;
     background-color: #2C3E50;
 
-}
-
-.box{
-    max-width: 900px;
-    margin: 0 auto;
 }
 
 .green{
@@ -29,8 +29,8 @@
 
 }
 
-.hr-white{
-    height: 2px;
+#myhr-white{
+    height: 4px;
     color: white;
-    width: 80px;
+    opacity: unset;
 }

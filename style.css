@@ -28,3 +28,9 @@
     background-color:#2C3E50;
 
 }
+
+.hr-white{
+    height: 2px;
+    color: white;
+    width: 80px;
+}
